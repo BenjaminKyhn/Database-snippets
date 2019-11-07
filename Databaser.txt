@@ -1,0 +1,4 @@
+Hvordan kan databaser brugers som datamatiker?
+
+Jeg forestiller mig, at alle større programmer har brug for en database til at indeholde informationer. Det kan fx
+være informationer om brugere og adgangskoder i en virksomhed, eller en database over items i et spil.
